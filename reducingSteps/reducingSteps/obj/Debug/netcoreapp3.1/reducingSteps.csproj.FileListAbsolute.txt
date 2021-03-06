@@ -1,0 +1,13 @@
+C:\Users\wwstudent\source\repos\reducingSteps\reducingSteps\bin\Debug\netcoreapp3.1\reducingSteps.exe
+C:\Users\wwstudent\source\repos\reducingSteps\reducingSteps\bin\Debug\netcoreapp3.1\reducingSteps.deps.json
+C:\Users\wwstudent\source\repos\reducingSteps\reducingSteps\bin\Debug\netcoreapp3.1\reducingSteps.runtimeconfig.json
+C:\Users\wwstudent\source\repos\reducingSteps\reducingSteps\bin\Debug\netcoreapp3.1\reducingSteps.runtimeconfig.dev.json
+C:\Users\wwstudent\source\repos\reducingSteps\reducingSteps\bin\Debug\netcoreapp3.1\reducingSteps.dll
+C:\Users\wwstudent\source\repos\reducingSteps\reducingSteps\bin\Debug\netcoreapp3.1\reducingSteps.pdb
+C:\Users\wwstudent\source\repos\reducingSteps\reducingSteps\obj\Debug\netcoreapp3.1\reducingSteps.csprojAssemblyReference.cache
+C:\Users\wwstudent\source\repos\reducingSteps\reducingSteps\obj\Debug\netcoreapp3.1\reducingSteps.AssemblyInfoInputs.cache
+C:\Users\wwstudent\source\repos\reducingSteps\reducingSteps\obj\Debug\netcoreapp3.1\reducingSteps.AssemblyInfo.cs
+C:\Users\wwstudent\source\repos\reducingSteps\reducingSteps\obj\Debug\netcoreapp3.1\reducingSteps.csproj.CoreCompileInputs.cache
+C:\Users\wwstudent\source\repos\reducingSteps\reducingSteps\obj\Debug\netcoreapp3.1\reducingSteps.dll
+C:\Users\wwstudent\source\repos\reducingSteps\reducingSteps\obj\Debug\netcoreapp3.1\reducingSteps.pdb
+C:\Users\wwstudent\source\repos\reducingSteps\reducingSteps\obj\Debug\netcoreapp3.1\reducingSteps.genruntimeconfig.cache
